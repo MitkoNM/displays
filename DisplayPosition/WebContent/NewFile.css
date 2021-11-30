@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+.c1{
+	border:black 4px solid;
+	display:inline-block;
+	box-sizing:content-box;
+}
