@@ -72,4 +72,14 @@
 	top:-60px;
 	left:50px;
 }
-	
+
+.pdg{
+	border:green 4px solid;
+	width:200px;
+	height:100px;
+	display:inline-block;
+	box-sizing:content-box;
+	position:fixed;
+	bottom:-10px;
+	left:1320px;	
+}	
